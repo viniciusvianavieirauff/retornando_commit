@@ -1,1 +1,1 @@
-print("Vamos criar atalhos nessa aula")
+print("Vamos criar atalhos nessa aula!!")
